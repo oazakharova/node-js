@@ -1,0 +1,12 @@
+{
+  "name": "converter_fahrenheit_celsius",
+  "version": "1.0.0",
+  "description": "This package allows you to convert Fahrenheit to Celsius and Celsius to Fahrenheit",
+  "main": "converter_fahrenheit_celsius.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["converter", "temperature-converter", "temperature"],
+  "author": "Olga Zakharova",
+  "license": "ISC"
+}

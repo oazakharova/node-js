@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "converter_fahrenheit_celsius": "^1.0.0",
     "number-precision": "^1.6.0"
   }
 }

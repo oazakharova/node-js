@@ -1,1 +1,37 @@
-[{"id":1,"firstName":"Ivanna","secondName":"Ivanova","age":25,"city":"Moscow"}]
+[
+  {
+    "id": 1,
+    "firstName": "Ivanna",
+    "secondName": "Ivanova",
+    "age": 25,
+    "city": "Moscow"
+  },
+  {
+    "id": 2,
+    "firstName": "Nikolay",
+    "secondName": "Nikolaev",
+    "age": 18,
+    "city": "Kazan"
+  },
+  {
+    "id": "62d8525e-ef6e-4ddb-a1c3-8f6d289034dd",
+    "firstName": "Matvey",
+    "secondName": "Matveev",
+    "age": 29,
+    "city": "Saratov"
+  },
+  {
+    "id": "b8e30b1d-b8e6-4603-b215-a9771b1c90b1",
+    "firstName": "Roman",
+    "secondName": "Romanov",
+    "age": 52,
+    "city": "SainT-Petersburg"
+  },
+  {
+    "id": "aa600552-7fb5-4f1d-8510-850c08cb17f0",
+    "firstName": "Andrey",
+    "secondName": "Andreev",
+    "age": 36,
+    "city": "Kaliningrad"
+  }
+]
